@@ -1,0 +1,37 @@
+product_id,product_name,category,cost_price,selling_price,monthly_target_units
+1,Water,Beverages,8.02,13.26,170
+2,Juice,Beverages,43.92,64.36,121
+3,Soda,Beverages,18.61,28.87,212
+4,Tea,Beverages,66.07,117.7,170
+5,Coffee,Beverages,31.1,43.54,221
+6,Energy Drink,Beverages,12.84,16.65,155
+7,Milk,Beverages,57.03,78.3,291
+8,Yogurt Drink,Beverages,35.03,58.02,59
+9,Chips,Snacks,39.11,54.31,132
+10,Crackers,Snacks,13.69,22.77,271
+11,Cookies,Snacks,43.59,78.15,218
+12,Nuts,Snacks,70.2,103.7,63
+13,Popcorn,Snacks,19.07,27.02,243
+14,Chocolate Bar,Snacks,42.39,62.11,63
+15,Candy,Snacks,20.27,31.0,287
+16,Gum,Snacks,26.6,45.98,174
+17,Milk,Dairy,14.11,25.17,205
+18,Cheese,Dairy,64.95,105.6,129
+19,Butter,Dairy,46.31,70.92,73
+20,Cream,Dairy,21.85,37.25,79
+21,Yogurt,Dairy,39.61,50.32,263
+22,Ice Cream,Dairy,16.55,29.12,124
+23,Sour Cream,Dairy,43.17,58.89,263
+24,Shampoo,Personal Care,41.19,61.1,166
+25,Soap,Personal Care,46.34,66.27,285
+26,Toothpaste,Personal Care,49.95,82.31,84
+27,Deodorant,Personal Care,69.8,95.33,252
+28,Lotion,Personal Care,69.08,96.98,251
+29,Face Wash,Personal Care,43.08,72.91,122
+30,Detergent,Household,59.45,101.21,198
+31,Dish Soap,Household,79.92,119.38,88
+32,Bleach,Household,38.49,57.37,135
+33,Fabric Softener,Household,46.39,70.79,166
+34,Air Freshener,Household,74.96,129.06,228
+35,Trash Bags,Household,22.91,32.76,269
+36,Paper Towels,Household,63.17,77.46,240
